@@ -23,12 +23,12 @@ module.exports = {
         600: '#b6abff'
       },
       'surface': {
-        100: '#07022e',
-        200: '#1f1e42',
-        300: '#393658',
-        400: '#524f6e',
-        500: '#6d6a84',
-        600: '#89869c'
+        100: '#0C0C0C', // Oil Black (paling gelap)
+        200: '#1A1A1A',
+        300: '#2A2A2A',
+        400: '#3A3A3A',
+        500: '#4A4A4A',
+        600: '#5A5A5A'  // paling terang
       },
       'on-background': '#ffffff',
       /* */
