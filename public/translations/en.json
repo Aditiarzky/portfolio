@@ -5,7 +5,7 @@
     "about": [
       "Hi there! 👋 My name is Aditia Rizky Utama, currently a 7th-semester Informatics Engineering student at Universitas Muria Kudus.",
       "I am passionate about web development, both frontend and backend. My primary stack is React.js and Express.js, but I also have some experience with Laravel, though not extensively. For databases, I usually work with MySQL and PostgreSQL. Currently, I am learning Nest.js and Next.js, and I also have some basic knowledge of SEO.",
-      "Outside of programming, I enjoy gaming and coding as part of my daily activities."
+      "Outside of programming, I enjoy gaming as part of my daily activities."
     ],
     "socials": {
       "email": "aditiarizkyutama@gmail.com",
@@ -18,9 +18,9 @@
       "title": "Web Developer (Internship)",
       "company": "MSA Travel Services",
       "href": "https://msatravelservices.com",
-      "startDate": "07/2023",
-      "endDate": "09/2023",
-      "description": "Developed a content management website to display company products and services using React.js and Express.js.",
+      "startDate": "01/2025",
+      "endDate": "03/2025",
+      "description": "Developed a website to manage company profile, product catalog, and services.",
       "logo": "/logos/msa-logo.jpg",
       "skills": ["React.js", "Express.js", "MySQL", "Typescript"]
     }
@@ -31,7 +31,7 @@
       "degree": "Bachelor",
       "university": "Universitas Muria Kudus",
       "href": "",
-      "startDate": "2020",
+      "startDate": "2022",
       "endDate": "Present",
       "description": "Currently in 7th semester, focusing on fullstack web development and UI/UX."
     }
@@ -42,14 +42,14 @@
       "name": "Construction Service Booking System",
       "framework": "React.js, Express.js",
       "description": "A web application to manage construction service bookings with user authentication.",
-      "href": "",
+      "href": "https://github.com/Aditiarzky/SolStru",
       "stars": "0"
     },
     {
       "name": "Boarding House Booking Management System",
       "framework": "Laravel",
       "description": "A system to manage boarding house room reservations and administration.",
-      "href": "",
+      "href": "https://github.com/aanalma28/kos-tipayung",
       "stars": "0"
     }
   ]

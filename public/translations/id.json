@@ -1,0 +1,56 @@
+{
+  "general": {
+    "name": "Aditia Rizky Utama",
+    "headline": "Fullstack Developer & Desainer UI/UX",
+    "about": [
+      "Halo! 👋 Nama saya Aditia Rizky Utama, saat ini mahasiswa Teknik Informatika semester 7 di Universitas Muria Kudus.",
+      "Saya memiliki ketertarikan pada pengembangan web, baik frontend maupun backend. Stack utama saya adalah React.js dan Express.js, namun saya juga memiliki sedikit pengalaman dengan Laravel (meski belum terlalu mendalam). Untuk basis data, saya biasanya menggunakan MySQL dan PostgreSQL. Saat ini saya sedang mempelajari Nest.js dan Next.js, serta memiliki pengetahuan dasar tentang SEO.",
+      "Di luar dunia pemrograman, saya senang bermain game sebagai bagian dari aktivitas harian saya."
+    ],
+    "socials": {
+      "email": "aditiarizkyutama@gmail.com",
+      "linkedin": "https://www.linkedin.com/",
+      "github": "https://github.com/Aditiarzky"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Web Developer (Magang)",
+      "company": "MSA Travel Services",
+      "href": "https://msatravelservices.com",
+      "startDate": "01/2025",
+      "endDate": "03/2025",
+      "description": "Mengembangkan website untuk mengelola profil perusahaan, katalog produk, dan layanan.",
+      "logo": "/logos/msa-logo.jpg",
+      "skills": ["React.js", "Express.js", "MySQL", "Typescript"]
+    }
+  ],
+  "education": [
+    {
+      "subject": "Teknik Informatika",
+      "degree": "Sarjana",
+      "university": "Universitas Muria Kudus",
+      "href": "",
+      "startDate": "2022",
+      "endDate": "Sekarang",
+      "description": "Saat ini berada di semester 7, dengan fokus pada pengembangan web fullstack dan UI/UX."
+    }
+  ],
+  "volunteering": [],
+  "projects": [
+    {
+      "name": "Sistem Pemesanan Jasa Konstruksi",
+      "framework": "React.js, Express.js",
+      "description": "Aplikasi web untuk mengelola pemesanan jasa konstruksi dengan autentikasi pengguna.",
+      "href": "https://github.com/Aditiarzky/SolStru",
+      "stars": "0"
+    },
+    {
+      "name": "Sistem Manajemen Pemesanan Kost",
+      "framework": "Laravel",
+      "description": "Sistem untuk mengelola reservasi kamar kost dan administrasinya.",
+      "href": "https://github.com/aanalma28/kos-tipayung",
+      "stars": "0"
+    }
+  ]
+}
